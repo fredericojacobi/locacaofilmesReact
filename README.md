@@ -1,4 +1,4 @@
-# Plataforma de Locação de Filmes
+# Plataforma de Locação de Filmes (WebApp)
 
 1 - Clonar o repositório e instalar as dependências 
 ```
